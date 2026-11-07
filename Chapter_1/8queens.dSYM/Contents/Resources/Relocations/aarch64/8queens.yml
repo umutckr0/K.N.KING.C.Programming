@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/umut/Documents/K.N.KING.C.Programming/Chapter_1/8queens'
+relocations:     []
+...
